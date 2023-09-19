@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanControl.IPMIPlugin", "FanControl.IPMIPlugin.csproj", "{97345F0C-C3A3-4BB5-BFDD-11C34C7EA819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanControlTest", "..\FanControlTest\FanControlTest.csproj", "{B7402BC2-8C2C-4F23-A214-B633A6D990E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97345F0C-C3A3-4BB5-BFDD-11C34C7EA819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97345F0C-C3A3-4BB5-BFDD-11C34C7EA819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97345F0C-C3A3-4BB5-BFDD-11C34C7EA819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97345F0C-C3A3-4BB5-BFDD-11C34C7EA819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7402BC2-8C2C-4F23-A214-B633A6D990E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7402BC2-8C2C-4F23-A214-B633A6D990E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7402BC2-8C2C-4F23-A214-B633A6D990E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7402BC2-8C2C-4F23-A214-B633A6D990E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A99E704-C7D4-4B09-8B1A-75A1FDAA8BEF}
+	EndGlobalSection
+EndGlobal
