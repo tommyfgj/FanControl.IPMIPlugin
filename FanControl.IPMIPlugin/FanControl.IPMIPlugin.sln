@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanControl.IPMIPlugin", "FanControl.IPMIPlugin.csproj", "{97345F0C-C3A3-4BB5-BFDD-11C34C7EA819}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanControlTest", "..\FanControlTest\FanControlTest.csproj", "{B7402BC2-8C2C-4F23-A214-B633A6D990E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanControl.IPMIPluginTest", "..\FanControl.IPMIPluginTest\FanControl.IPMIPluginTest.csproj", "{B7402BC2-8C2C-4F23-A214-B633A6D990E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
