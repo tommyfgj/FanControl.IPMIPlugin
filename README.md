@@ -1,5 +1,5 @@
 # FanControl.IPMIPlugin 
-A plugin to Control fan through ipmitool. I use this to control extra fan for cooling my P40 under ESXI.(cheap game streaming and AIGC Calculation, hahaha...)
+A plugin to control fan through ipmitool in https://github.com/Rem0o/FanControl.Releases. I use this to control extra fan for cooling my P40 under ESXI.(cheap game streaming and AIGC Calculation, hahaha...)
 
 ## Install
 
